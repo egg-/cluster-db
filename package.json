@@ -1,0 +1,31 @@
+{
+  "name": "cluster-db",
+  "version": "0.1.0",
+  "author": {
+    "name": "egg",
+    "email": "i@egg.pe.kr"
+  },
+  "description": "A wrapper for switching the master/slave connection information.",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/egg-/cluster-db.git"
+  },
+  "keywords": [
+    "cluster",
+    "mysql",
+    "master",
+    "slave"
+  ],
+  "license": "MIT",
+  "main": "./index",
+  "devDependencies": {
+    "async": "^1.5.0",
+    "grunt": "^0.4.5",
+    "grunt-jsdoc-to-markdown": "^1.1.1",
+    "matchdep": "^1.0.0"
+  },
+  "dependencies": {
+    "mysql": "^2.9.0"
+  }
+}
