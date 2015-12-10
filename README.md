@@ -1,6 +1,6 @@
 # cluster-db
 
-[![version](https://img.shields.io/npm/v/vcluster-db.svg) ![download](https://img.shields.io/npm/dm/cluster-db.svg)](https://www.npmjs.com/package/cluster-db)
+[![version](https://img.shields.io/npm/v/cluster-db.svg) ![download](https://img.shields.io/npm/dm/cluster-db.svg)](https://www.npmjs.com/package/cluster-db)
 
 A wrapper for switching the master/slave connection information.
 
